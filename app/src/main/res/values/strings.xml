@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">General Knowledge Quiz App Project</string>
+    <string name="name_hint">Name</string>
+    <string name="question1title">Question 1</string>
+    <string name="question2title">Question 2</string>
+    <string name="question3title">Question 3</string>
+    <string name="question4title">Question 4</string>
+    <string name="question5title">Question 5</string>
+    <string name="question6title">Question 6</string>
+    <string name="question7title">Question 7</string>
+    <string name="question8title">Question 8</string>
+    <string name="question1">Which of the following integers are multiples of both 2 and 3?
+        Indicate all such integers.</string>
+    <string name="answer8">8</string>
+    <string name="answer12">12</string>
+    <string name="answer18">18</string>
+    <string name="answer9">9</string>
+    <string name="question2">How many molecules of oxygen does ozone have?</string>
+    <string name="answer2">2</string>
+    <string name="answer3">3</string>
+    <string name="answer6">6</string>
+    <string name="question3">Aeroplane was invented in the year ?</string>
+    <string name="Digit">Type Year in Digits</string>
+    <string name="question4">The World Largest desert is ?</string>
+    <string name="answerThar">Thar</string>
+    <string name="answerKalahari">Kalahari </string>
+    <string name="answerSahara">Sahara</string>
+    <string name="question5">Select the objects present in the picture below:</string>
+    <string name="submit">Submit</string>
+    <string name="answer_Scissor">Scissor</string>
+    <string name="answer_Pencil">Pencil</string>
+    <string name="answer_Basketball">Basketball</string>
+    <string name="answer_Table">Table</string>
+    <string name="question6">How many rings are on the Olympic flag?</string>
+    <string name="answer4">4</string>
+    <string name="answer7">7</string>
+    <string name="answer5">5</string>
+    <string name="question7">Which gas is used for the preparation of Soda water ?</string>
+    <string name="answerOxygen">Oxygen</string>
+    <string name="answerCarbonDioxide">Carbon Dioxide</string>
+    <string name="answerAmmonia">Ammonia</string>
+    <string name="question8">Deficiency of Iron leads to ?</string>
+    <string name="answerRickets">Rickets</string>
+    <string name="answerMalaria">Malaria</string>
+    <string name="answerAnaemia">Anaemia</string>
+</resources>
