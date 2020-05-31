@@ -16,3 +16,10 @@ The goal is to create an educational app that quizzes a user about a certain top
    - Creating interactivity through button clicks and Java code.
    
    - Commenting and documenting your code.
+   
+# Screenshots
+  ![Screenshot_2020-05-31-21-09-14-301_com example generalknowledgequizappproject](https://user-images.githubusercontent.com/65824232/83356417-a86d4c80-a383-11ea-916b-997cdc759300.jpg)
+  
+![Screenshot_2020-05-31-21-09-22-105_com example generalknowledgequizappproject](https://user-images.githubusercontent.com/65824232/83356418-adca9700-a383-11ea-92a4-1dc4b6401a30.jpg)
+
+![Screenshot_2020-05-31-21-09-26-845_com example generalknowledgequizappproject](https://user-images.githubusercontent.com/65824232/83356422-b4590e80-a383-11ea-99b0-f61aaa59687a.jpg)
